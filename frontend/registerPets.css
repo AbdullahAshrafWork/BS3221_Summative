@@ -1,0 +1,71 @@
+#title {
+  text-align: center;
+  line-height: 1;
+}
+
+#survey-form {
+  border: 1px #f0ffff;
+  width: 50%;
+  margin: 0 auto;
+  
+  
+  background-color: #f0ffff;
+  font-size: 20px;
+}
+
+body {
+  text-align: center;
+  background-color: #f0ffff;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+
+#name-label {
+    margin-top: 20px;
+    line-height: 2;
+}
+#name {
+  /* display: block; */
+  width: 50%;
+  height: 2.375rem;
+  /* margin: 0 auto 0px auto; */
+  justify-content: left;
+  border: 2px solid #ced4da;
+}
+#color-label {
+  text-align: center;
+  line-height: 2;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#color {
+  display: block;
+  width: 50%;
+  height: 2.375rem;
+  margin: 0 auto 20px auto;
+  border: 2px solid #ced4da;
+}
+#number-label {
+  text-align: center;
+  line-height: 2;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#number {
+  display: block;
+  width: 50%;
+  height: 2.375rem;
+  margin: 0 auto 20px auto;
+  border: 2px solid #ced4da;
+}
+
+#submit {
+  text-align: center;
+  background-color: #7fffd4;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 15px;
+  display: block;
+  width: 51%;
+  height: 2.775rem;
+  margin: 0 auto 20px auto;
+  border: 2px solid #ced4da;
+}

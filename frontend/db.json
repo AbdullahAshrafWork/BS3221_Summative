@@ -1,0 +1,17 @@
+{   
+    "id": {
+      "S": "55d2bc17-13JK-45ff-b9d3-bf54198607dc"
+    },
+    "dogname": {
+      "S": "Archie"
+    },
+    "age": {
+      "S": "6"
+    },
+    "color": {
+      "S": "black"
+    },
+    "area":{
+       "S": "Winchester" 
+    }
+  }
